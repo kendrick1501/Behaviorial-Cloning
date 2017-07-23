@@ -68,7 +68,7 @@ The final model architecture is presented in table 1 and it is illustrated in th
 
 ![alt text][image1]
 
-####3. Creation of the Training Set & Training Process
+#### Creation of the Training Set & Training Process
 
 The dataset was generated using center lane driving on both tracks. For each track, three laps: two times in normal direction and one time in opposite direction. The images from the three mounted cameras were also considered in the dataset. Below, some examples of center lane driving.
 
